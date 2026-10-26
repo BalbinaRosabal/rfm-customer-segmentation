@@ -8,7 +8,7 @@ An end-to-end customer segmentation project using **Recency, Frequency, and Mone
 
 ## Dashboard preview
 
-[**View the RFM Customer Segmentation Dashboard (PDF)**](RFM Customer Segmentation Dashboard.pdf)
+[View the RFM Customer Segmentation Dashboard (PDF)](<RFM Customer Segmentation Dashboard.pdf>)
 
 The original dashboard was built in **Databricks**. The PDF preserves its visual layout and results; it is a **static export**, not an interactive dashboard. The notebook contains the transformations used to prepare its source tables.
 
@@ -75,7 +75,7 @@ The downloaded dataset contains **286,392 rows and 36 columns**. The source CSV 
 ```
 
 - [`Final_Project_Notebook_RFM_Segmentation.ipynb`](Final_Project_Notebook_RFM_Segmentation.ipynb) — source notebook for the RFM pipeline, scoring, segmentation, and dashboard datasets
-- [`RFM Customer Segmentation Dashboard.pdf`](RFM Customer Segmentation Dashboard.pdf) — static view of the final Databricks dashboard
+- [`RFM Customer Segmentation Dashboard.pdf`](<RFM Customer Segmentation Dashboard.pdf>) — static view of the final Databricks dashboard.
 
 The notebook is the original final Databricks notebook export, including its saved execution outputs. The accompanying PDF shows the final Databricks dashboard.
 
